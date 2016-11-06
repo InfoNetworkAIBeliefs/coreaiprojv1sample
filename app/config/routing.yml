@@ -1,0 +1,8 @@
+ai_project_core:
+    resource: "@AIProjectCoreBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
